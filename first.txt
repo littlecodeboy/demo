@@ -8,4 +8,4 @@ i modified second
 helloworld
 
 1、add one message
-
+今天星期五
